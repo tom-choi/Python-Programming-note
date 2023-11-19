@@ -1,0 +1,1823 @@
+{
+  "r/GlobalOffensive": [
+    "Counter-Strike 2",
+    "Dota 2"
+  ],
+  "r/DotA2": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Overwatch® 2",
+    "Hero's Land"
+  ],
+  "r/gaming": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "PUBG: BATTLEGROUNDS",
+    "Apex Legends",
+    "Call of Duty®",
+    "Grand Theft Auto V",
+    "Baldur's Gate 3",
+    "Team Fortress 2",
+    "War Thunder",
+    "Warframe",
+    "PAYDAY 2",
+    "ARK: Survival Evolved",
+    "Cyberpunk 2077",
+    "DayZ",
+    "Red Dead Redemption 2",
+    "Destiny 2",
+    "Terraria",
+    "Dead by Daylight",
+    "7 Days to Die",
+    "ELDEN RING",
+    "Stardew Valley",
+    "Monster Hunter: World",
+    "Project Zomboid",
+    "The Sims™ 4",
+    "Overwatch® 2",
+    "Black Desert",
+    "RimWorld",
+    "Battlefield™ 2042",
+    "Euro Truck Simulator 2",
+    "Farming Simulator 22",
+    "Cities: Skylines II",
+    "Spacewar",
+    "Left 4 Dead 2",
+    "Europa Universalis IV",
+    "Starfield",
+    "Sid Meier's Civilization V",
+    "Garry's Mod",
+    "Cookie Clicker",
+    "The Binding of Isaac: Rebirth",
+    "Path of Exile",
+    "Valheim",
+    "Satisfactory",
+    "Rocket League",
+    "Cities: Skylines",
+    "Phasmophobia",
+    "Fallout 4",
+    "Factorio",
+    "Street Fighter™ 6",
+    "Geometry Dash",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "Stellaris",
+    "MapleStory",
+    "MONSTER HUNTER RISE",
+    "Grounded"
+  ],
+  "r/GlobalOffensiveTrade": [
+    "Counter-Strike 2",
+    "Satisfactory"
+  ],
+  "r/pcgaming": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "PUBG: BATTLEGROUNDS",
+    "Apex Legends",
+    "NARAKA: BLADEPOINT",
+    "Grand Theft Auto V",
+    "Baldur's Gate 3",
+    "Team Fortress 2",
+    "Warframe",
+    "Cyberpunk 2077",
+    "Tom Clancy's Rainbow Six Siege",
+    "DayZ",
+    "Hearts of Iron IV",
+    "Monster Hunter: World",
+    "Project Zomboid",
+    "Yu-Gi-Oh! Master Duel",
+    "RimWorld",
+    "Battlefield™ 2042",
+    "Risk of Rain Returns",
+    "FINAL FANTASY XIV Online",
+    "Euro Truck Simulator 2",
+    "Farming Simulator 22",
+    "Cities: Skylines II",
+    "Europa Universalis IV",
+    "Crusader Kings III",
+    "Starfield",
+    "The Binding of Isaac: Rebirth",
+    "Age of Empires II: Definitive Edition",
+    "Warhammer 40,000: Darktide",
+    "Path of Exile",
+    "Valheim",
+    "Cities: Skylines",
+    "Total War: WARHAMMER III",
+    "Phasmophobia",
+    "Factorio",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "NBA 2K23",
+    "Stellaris",
+    "MONSTER HUNTER RISE",
+    "Grounded"
+  ],
+  "r/Games": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "PUBG: BATTLEGROUNDS",
+    "Apex Legends",
+    "NARAKA: BLADEPOINT",
+    "Call of Duty®",
+    "Grand Theft Auto V",
+    "Baldur's Gate 3",
+    "Team Fortress 2",
+    "Warframe",
+    "Sid Meier's Civilization VI",
+    "ARK: Survival Ascended",
+    "PAYDAY 2",
+    "Cyberpunk 2077",
+    "Tom Clancy's Rainbow Six Siege",
+    "DayZ",
+    "Red Dead Redemption 2",
+    "Destiny 2",
+    "Dead by Daylight",
+    "7 Days to Die",
+    "Hearts of Iron IV",
+    "EA SPORTS FC™ 24",
+    "Monster Hunter: World",
+    "Project Zomboid",
+    "The Sims™ 4",
+    "Overwatch® 2",
+    "Yu-Gi-Oh! Master Duel",
+    "Black Desert",
+    "tModLoader",
+    "Age of Empires IV: Anniversary Edition",
+    "RimWorld",
+    "Battlefield™ 2042",
+    "Risk of Rain Returns",
+    "Football Manager 2023",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "FINAL FANTASY XIV Online",
+    "Euro Truck Simulator 2",
+    "Farming Simulator 22",
+    "Cities: Skylines II",
+    "Left 4 Dead 2",
+    "Europa Universalis IV",
+    "Crusader Kings III",
+    "Starfield",
+    "Sid Meier's Civilization V",
+    "The Binding of Isaac: Rebirth",
+    "Age of Empires II: Definitive Edition",
+    "Warhammer 40,000: Darktide",
+    "Path of Exile",
+    "Valheim",
+    "Satisfactory",
+    "Slay the Spire",
+    "Rocket League",
+    "Cities: Skylines",
+    "Total War: WARHAMMER III",
+    "Phasmophobia",
+    "Remnant II",
+    "Factorio",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "NBA 2K23",
+    "Stellaris",
+    "MapleStory",
+    "MONSTER HUNTER RISE",
+    "Grounded"
+  ],
+  "r/linux_gaming": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Apex Legends",
+    "Team Fortress 2",
+    "Sid Meier's Civilization VI",
+    "7 Days to Die",
+    "Project Zomboid",
+    "Euro Truck Simulator 2",
+    "Cities: Skylines II",
+    "Left 4 Dead 2",
+    "Europa Universalis IV",
+    "Crusader Kings III",
+    "Warhammer 40,000: Darktide",
+    "Path of Exile",
+    "Valheim",
+    "Total War: WARHAMMER III",
+    "Factorio",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "Stellaris"
+  ],
+  "r/macgaming": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Baldur's Gate 3",
+    "Total War: WARHAMMER III",
+    "The Elder Scrolls Online"
+  ],
+  "r/SteamDeck": [
+    "Counter-Strike 2",
+    "Apex Legends",
+    "Baldur's Gate 3",
+    "Project Zomboid",
+    "Starfield",
+    "Valheim",
+    "Remnant II",
+    "Factorio",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/valve": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Left 4 Dead 2"
+  ],
+  "r/gamernews": [
+    "Counter-Strike 2",
+    "ARK: Survival Ascended",
+    "Warhammer 40,000: Darktide",
+    "Path of Exile",
+    "Total War: WARHAMMER III",
+    "Street Fighter™ 6",
+    "The Elder Scrolls Online",
+    "Stellaris",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/SteamGameSwap": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Sid Meier's Civilization VI",
+    "PAYDAY 2",
+    "Don't Starve Together",
+    "7 Days to Die",
+    "Hearts of Iron IV",
+    "Garry's Mod",
+    "Slay the Spire",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "Stellaris"
+  ],
+  "r/HalfLife": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Garry's Mod"
+  ],
+  "r/steamdeals": [
+    "Counter-Strike 2",
+    "Sid Meier's Civilization VI",
+    "Tom Clancy's Rainbow Six Siege",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "Left 4 Dead 2",
+    "Europa Universalis IV",
+    "Sid Meier's Civilization V",
+    "The Binding of Isaac: Rebirth",
+    "Age of Empires II: Definitive Edition",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "Stellaris"
+  ],
+  "r/IndianGaming": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "PUBG: BATTLEGROUNDS",
+    "Apex Legends",
+    "Street Fighter™ 6"
+  ],
+  "r/steamachievements": [
+    "Counter-Strike 2",
+    "PUBG: BATTLEGROUNDS",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "Risk of Rain 2"
+  ],
+  "r/gamingnews": [
+    "Counter-Strike 2",
+    "Street Fighter™ 6",
+    "The Elder Scrolls Online"
+  ],
+  "r/TwoBestFriendsPlay": [
+    "Counter-Strike 2",
+    "Apex Legends",
+    "NARAKA: BLADEPOINT",
+    "Baldur's Gate 3",
+    "Warframe",
+    "ELDEN RING",
+    "Monster Hunter: World",
+    "Overwatch® 2",
+    "Limbus Company",
+    "Starfield",
+    "Warhammer 40,000: Darktide",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/Argaming": [
+    "Counter-Strike 2",
+    "Project Zomboid",
+    "Street Fighter™ 6",
+    "The Elder Scrolls Online"
+  ],
+  "r/tf2": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Unturned",
+    "Team Fortress 2",
+    "Garry's Mod"
+  ],
+  "r/Steam": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Source SDK Base 2007",
+    "PAYDAY 2",
+    "Spacewar",
+    "Left 4 Dead 2",
+    "Garry's Mod",
+    "Risk of Rain 2"
+  ],
+  "r/playitforward": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Sid Meier's Civilization V"
+  ],
+  "r/Dota2Trade": [
+    "Counter-Strike 2",
+    "Dota 2"
+  ],
+  "r/TeamSolomid": [
+    "Counter-Strike 2",
+    "Apex Legends"
+  ],
+  "r/LivestreamFail": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Apex Legends",
+    "VRChat",
+    "Path of Exile",
+    "Phasmophobia",
+    "Street Fighter™ 6",
+    "Geometry Dash",
+    "MapleStory"
+  ],
+  "r/Unity3D": [
+    "Counter-Strike 2",
+    "Valheim"
+  ],
+  "r/l4d2": [
+    "Counter-Strike 2",
+    "Left 4 Dead 2"
+  ],
+  "r/esports": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Apex Legends",
+    "Street Fighter™ 6"
+  ],
+  "r/gameswap": [
+    "Counter-Strike 2",
+    "Left 4 Dead 2"
+  ],
+  "r/Amd": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "Apex Legends",
+    "Farming Simulator 22"
+  ],
+  "r/pcmasterrace": [
+    "Counter-Strike 2",
+    "Dota 2",
+    "PUBG: BATTLEGROUNDS",
+    "Apex Legends",
+    "Wallpaper Engine",
+    "Grand Theft Auto V",
+    "Unturned",
+    "PAYDAY 2",
+    "ARK: Survival Evolved",
+    "Cyberpunk 2077",
+    "DayZ",
+    "Don't Starve Together",
+    "Black Desert",
+    "Euro Truck Simulator 2",
+    "Left 4 Dead 2",
+    "Sid Meier's Civilization V",
+    "Garry's Mod",
+    "Rocket League",
+    "Fallout 4",
+    "Factorio",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online"
+  ],
+  "r/GiftofGames": [
+    "Counter-Strike 2",
+    "PAYDAY 2",
+    "Tom Clancy's Rainbow Six Siege",
+    "Don't Starve Together",
+    "Hearts of Iron IV",
+    "RimWorld",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "FINAL FANTASY XIV Online",
+    "Euro Truck Simulator 2",
+    "Left 4 Dead 2",
+    "Sid Meier's Civilization V",
+    "Garry's Mod",
+    "The Binding of Isaac: Rebirth",
+    "Factorio",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "Stellaris",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/leagueoflegends": [
+    "Dota 2",
+    "Wallpaper Engine"
+  ],
+  "r/heroesofthestorm": [
+    "Dota 2",
+    "Mount & Blade II: Bannerlord"
+  ],
+  "r/RandomActsOfGaming": [
+    "Dota 2",
+    "Don't Starve Together",
+    "FINAL FANTASY XIV Online",
+    "Sid Meier's Civilization V",
+    "Stellaris"
+  ],
+  "r/gaymers": [
+    "Dota 2",
+    "Warframe",
+    "Stardew Valley",
+    "Crusader Kings III",
+    "Street Fighter™ 6",
+    "The Elder Scrolls Online",
+    "Coral Island",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/Philippines": [
+    "Dota 2",
+    "Cities: Skylines",
+    "Risk of Rain 2",
+    "Coral Island"
+  ],
+  "r/GirlGamers": [
+    "Dota 2",
+    "Baldur's Gate 3",
+    "Stardew Valley",
+    "The Elder Scrolls Online",
+    "Coral Island",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/cosplay": [
+    "Dota 2",
+    "Street Fighter™ 6"
+  ],
+  "r/whowouldwin": [
+    "Dota 2",
+    "Team Fortress 2",
+    "Warframe",
+    "Hero's Land",
+    "Cookie Clicker",
+    "Stellaris"
+  ],
+  "r/SubSimulatorGPT2": [
+    "Dota 2",
+    "NBA 2K23"
+  ],
+  "r/BlackPink": [
+    "PUBG: BATTLEGROUNDS",
+    "MapleStory"
+  ],
+  "r/PS5": [
+    "PUBG: BATTLEGROUNDS",
+    "Apex Legends",
+    "NARAKA: BLADEPOINT",
+    "Baldur's Gate 3",
+    "EA SPORTS FC™ 24",
+    "Yu-Gi-Oh! Master Duel",
+    "Battlefield™ 2042",
+    "Football Manager 2023",
+    "Farming Simulator 22",
+    "Cities: Skylines II",
+    "Crusader Kings III",
+    "Remnant II",
+    "Street Fighter™ 6",
+    "The Elder Scrolls Online",
+    "NBA 2K23",
+    "Coral Island",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/GameDeals": [
+    "PUBG: BATTLEGROUNDS",
+    "Grand Theft Auto V",
+    "Football Manager 2024",
+    "Sid Meier's Civilization VI",
+    "PAYDAY 2",
+    "ARK: Survival Evolved",
+    "Tom Clancy's Rainbow Six Siege",
+    "Red Dead Redemption 2",
+    "Don't Starve Together",
+    "Dead by Daylight",
+    "7 Days to Die",
+    "Hearts of Iron IV",
+    "Monster Hunter: World",
+    "The Sims™ 4",
+    "Age of Empires IV: Anniversary Edition",
+    "RimWorld",
+    "Governor of Poker 3",
+    "Risk of Rain Returns",
+    "Football Manager 2023",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "FINAL FANTASY XIV Online",
+    "Euro Truck Simulator 2",
+    "Farming Simulator 22",
+    "Cities: Skylines II",
+    "Europa Universalis IV",
+    "Crusader Kings III",
+    "Sid Meier's Civilization V",
+    "Age of Empires II: Definitive Edition",
+    "Warhammer 40,000: Darktide",
+    "Slay the Spire",
+    "Cities: Skylines",
+    "Total War: WARHAMMER III",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "NBA 2K23",
+    "Stellaris",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/xboxone": [
+    "PUBG: BATTLEGROUNDS",
+    "Apex Legends",
+    "NARAKA: BLADEPOINT",
+    "Call of Duty®",
+    "Warframe",
+    "ARK: Survival Evolved",
+    "Cyberpunk 2077",
+    "Tom Clancy's Rainbow Six Siege",
+    "Red Dead Redemption 2",
+    "Monster Hunter: World",
+    "Black Desert",
+    "Battlefield™ 2042",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "Left 4 Dead 2",
+    "Crusader Kings III",
+    "Age of Empires II: Definitive Edition",
+    "Warhammer 40,000: Darktide",
+    "Path of Exile",
+    "Rocket League",
+    "Fallout 4",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "Stellaris",
+    "MONSTER HUNTER RISE",
+    "Grounded"
+  ],
+  "r/Yogscast": [
+    "PUBG: BATTLEGROUNDS",
+    "ARK: Survival Evolved",
+    "Don't Starve Together",
+    "Terraria",
+    "7 Days to Die",
+    "Hearts of Iron IV",
+    "Garry's Mod",
+    "Satisfactory",
+    "Cities: Skylines",
+    "Factorio",
+    "Stellaris"
+  ],
+  "r/Trophies": [
+    "PUBG: BATTLEGROUNDS",
+    "Apex Legends",
+    "Call of Duty®",
+    "Grand Theft Auto V",
+    "ARK: Survival Evolved",
+    "Cyberpunk 2077",
+    "Tom Clancy's Rainbow Six Siege",
+    "Red Dead Redemption 2",
+    "Dead by Daylight",
+    "ELDEN RING",
+    "Stardew Valley",
+    "Monster Hunter: World",
+    "The Sims™ 4",
+    "Yu-Gi-Oh! Master Duel",
+    "Battlefield™ 2042",
+    "Football Manager 2023",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "Farming Simulator 22",
+    "The Binding of Isaac: Rebirth",
+    "Slay the Spire",
+    "Rocket League",
+    "Fallout 4",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "NBA 2K23",
+    "MONSTER HUNTER RISE",
+    "Grounded"
+  ],
+  "r/OneyPlays": [
+    "PUBG: BATTLEGROUNDS",
+    "Street Fighter™ 6"
+  ],
+  "r/GreatXboxDeals": [
+    "PUBG: BATTLEGROUNDS",
+    "Tom Clancy's Rainbow Six Siege",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/apexlegends": [
+    "Apex Legends",
+    "Wallpaper Engine"
+  ],
+  "r/Gamingcirclejerk": [
+    "Apex Legends",
+    "Call of Duty®",
+    "Cyberpunk 2077",
+    "Red Dead Redemption 2",
+    "ELDEN RING",
+    "Overwatch® 2",
+    "Starfield",
+    "Fallout 4",
+    "Street Fighter™ 6"
+  ],
+  "r/Hololive": [
+    "Apex Legends",
+    "Don't Starve Together",
+    "VRChat",
+    "Yu-Gi-Oh! Master Duel",
+    "Phasmophobia",
+    "Street Fighter™ 6",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/VirtualYoutubers": [
+    "Apex Legends",
+    "Yu-Gi-Oh! Master Duel",
+    "Warhammer 40,000: Darktide",
+    "Phasmophobia",
+    "Risk of Rain 2",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/GeForceNOW": [
+    "Apex Legends",
+    "NARAKA: BLADEPOINT",
+    "Baldur's Gate 3",
+    "ARK: Survival Ascended",
+    "Total War: WARHAMMER III"
+  ],
+  "r/3Dprinting": [
+    "Apex Legends",
+    "The Elder Scrolls Online"
+  ],
+  "r/teenagers": [
+    "Apex Legends",
+    "Team Fortress 2",
+    "Terraria",
+    "VRChat",
+    "Cookie Clicker",
+    "Geometry Dash",
+    "Grounded"
+  ],
+  "r/transgamers": [
+    "Apex Legends",
+    "Project Zomboid",
+    "Risk of Rain 2",
+    "MapleStory",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/PewdiepieSubmissions": [
+    "Apex Legends",
+    "Team Fortress 2",
+    "Terraria",
+    "Geometry Dash"
+  ],
+  "r/memes": [
+    "Apex Legends",
+    "Terraria",
+    "SCUM",
+    "Cookie Clicker",
+    "Satisfactory",
+    "Geometry Dash",
+    "Grounded"
+  ],
+  "r/lowspecgamer": [
+    "Apex Legends",
+    "Phasmophobia"
+  ],
+  "r/PS4": [
+    "Apex Legends",
+    "Grand Theft Auto V",
+    "War Thunder",
+    "Warframe",
+    "Tom Clancy's Rainbow Six Siege",
+    "Red Dead Redemption 2",
+    "7 Days to Die",
+    "Monster Hunter: World",
+    "FINAL FANTASY XIV Online",
+    "The Binding of Isaac: Rebirth",
+    "Path of Exile",
+    "Rocket League",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online"
+  ],
+  "r/DeathBattleMatchups": [
+    "Apex Legends",
+    "NARAKA: BLADEPOINT",
+    "Team Fortress 2",
+    "Warframe",
+    "Dead by Daylight",
+    "Limbus Company",
+    "Street Fighter™ 6"
+  ],
+  "r/GamePhysics": [
+    "Apex Legends",
+    "Grand Theft Auto V",
+    "War Thunder",
+    "PAYDAY 2",
+    "ARK: Survival Evolved",
+    "Cyberpunk 2077",
+    "Red Dead Redemption 2",
+    "Battlefield™ 2042",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "Euro Truck Simulator 2",
+    "Farming Simulator 22",
+    "Satisfactory",
+    "Fallout 4"
+  ],
+  "r/NintendoSwitch": [
+    "Apex Legends",
+    "Warframe",
+    "Sid Meier's Civilization VI",
+    "Stardew Valley",
+    "EA SPORTS FC™ 24",
+    "Yu-Gi-Oh! Master Duel",
+    "Risk of Rain Returns",
+    "Slay the Spire",
+    "Rocket League",
+    "Risk of Rain 2",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/XboxSeriesX": [
+    "Apex Legends",
+    "NARAKA: BLADEPOINT",
+    "Football Manager 2024",
+    "ARK: Survival Ascended",
+    "EA SPORTS FC™ 24",
+    "Overwatch® 2",
+    "Yu-Gi-Oh! Master Duel",
+    "Battlefield™ 2042",
+    "Football Manager 2023",
+    "Farming Simulator 22",
+    "Cities: Skylines II",
+    "Crusader Kings III",
+    "Starfield",
+    "Age of Empires II: Definitive Edition",
+    "Warhammer 40,000: Darktide",
+    "Valheim",
+    "Remnant II",
+    "Street Fighter™ 6",
+    "The Elder Scrolls Online",
+    "NBA 2K23",
+    "MONSTER HUNTER RISE",
+    "Grounded"
+  ],
+  "r/blender": [
+    "Apex Legends",
+    "Risk of Rain 2"
+  ],
+  "r/dankmemes": [
+    "Apex Legends",
+    "Unturned",
+    "Terraria",
+    "SCUM",
+    "Geometry Dash",
+    "Grounded"
+  ],
+  "r/KotakuInAction": [
+    "Apex Legends",
+    "Cyberpunk 2077",
+    "Street Fighter™ 6",
+    "MapleStory"
+  ],
+  "r/FreeGameFindings": [
+    "NARAKA: BLADEPOINT",
+    "Dead by Daylight",
+    "Black Desert"
+  ],
+  "r/PHGamers": [
+    "NARAKA: BLADEPOINT",
+    "Project Zomboid"
+  ],
+  "r/XboxGamePass": [
+    "NARAKA: BLADEPOINT",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/Rainmeter": [
+    "Wallpaper Engine",
+    "Risk of Rain 2"
+  ],
+  "r/cyberpunkgame": [
+    "Wallpaper Engine",
+    "Cyberpunk 2077"
+  ],
+  "r/wow": [
+    "Wallpaper Engine",
+    "Mount & Blade II: Bannerlord"
+  ],
+  "r/Rainbow6": [
+    "Wallpaper Engine",
+    "Tom Clancy's Rainbow Six Siege"
+  ],
+  "r/DestinyTheGame": [
+    "Wallpaper Engine",
+    "Destiny 2",
+    "Eternal Return"
+  ],
+  "r/mindcrack": [
+    "Grand Theft Auto V",
+    "Unturned",
+    "ARK: Survival Evolved",
+    "Don't Starve Together",
+    "7 Days to Die",
+    "Garry's Mod",
+    "The Binding of Isaac: Rebirth",
+    "Factorio"
+  ],
+  "r/PS4Deals": [
+    "Grand Theft Auto V",
+    "Tom Clancy's Rainbow Six Siege",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "FINAL FANTASY XIV Online",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online"
+  ],
+  "r/Stadia": [
+    "Baldur's Gate 3",
+    "Cyberpunk 2077",
+    "Destiny 2",
+    "Dead by Daylight",
+    "Farming Simulator 22",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online"
+  ],
+  "r/ShouldIbuythisgame": [
+    "Baldur's Gate 3",
+    "Sid Meier's Civilization VI",
+    "PAYDAY 2",
+    "ARK: Survival Evolved",
+    "DayZ",
+    "Red Dead Redemption 2",
+    "Don't Starve Together",
+    "Terraria",
+    "7 Days to Die",
+    "Stardew Valley",
+    "Hearts of Iron IV",
+    "Monster Hunter: World",
+    "Project Zomboid",
+    "Black Desert",
+    "RimWorld",
+    "Euro Truck Simulator 2",
+    "Europa Universalis IV",
+    "Sid Meier's Civilization V",
+    "The Binding of Isaac: Rebirth",
+    "Path of Exile",
+    "Valheim",
+    "Satisfactory",
+    "Slay the Spire",
+    "Cities: Skylines",
+    "Factorio",
+    "Street Fighter™ 6",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "Stellaris",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/skyrim": [
+    "Unturned",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/pathofexile": [
+    "Unturned",
+    "Path of Exile"
+  ],
+  "r/india": [
+    "Unturned",
+    "Grounded"
+  ],
+  "r/Overwatch": [
+    "Team Fortress 2",
+    "Overwatch® 2"
+  ],
+  "r/AskScienceFiction": [
+    "Team Fortress 2",
+    "RimWorld",
+    "Stellaris"
+  ],
+  "r/Warthunder": [
+    "War Thunder",
+    "Coral Island"
+  ],
+  "r/oculus": [
+    "War Thunder",
+    "PAYDAY 2",
+    "VRChat",
+    "Governor of Poker 3",
+    "Euro Truck Simulator 2",
+    "Phasmophobia",
+    "Risk of Rain 2"
+  ],
+  "r/ARK": [
+    "Lost Ark",
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/MMORPG": [
+    "Lost Ark",
+    "Black Desert",
+    "FINAL FANTASY XIV Online",
+    "The Elder Scrolls Online",
+    "MapleStory"
+  ],
+  "r/Asmongold": [
+    "Lost Ark",
+    "Total War: WARHAMMER III"
+  ],
+  "r/playark": [
+    "Lost Ark",
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/movies": [
+    "Lost Ark",
+    "RimWorld",
+    "Grounded"
+  ],
+  "r/todayilearned": [
+    "Lost Ark",
+    "Lethal Company",
+    "Spacewar",
+    "Hero's Land",
+    "Eternal Return",
+    "Coral Island",
+    "Grounded"
+  ],
+  "r/ARKone": [
+    "Lost Ark",
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/programming": [
+    "Rust",
+    "Factorio"
+  ],
+  "r/WarframeRunway": [
+    "Warframe",
+    "大侠立志传：碧血丹心"
+  ],
+  "r/footballmanagergames": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/footballmanager": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/FootballManagerBR": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/FootballManagerHelp": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/footballmanagermobile": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/FootballLegacyManager": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/FootballManagerMemes": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/FootballManagerBlog": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/FootballManagerFC": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/WorldFootballManager": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/soccercirclejerk": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/theFMchalkboard": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/FMtactics": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/footballmanagerskins": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/FootballManager2014": [
+    "Football Manager 2024",
+    "Football Manager 2023"
+  ],
+  "r/civ": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/CivVI": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/NintendoSwitchDeals": [
+    "Sid Meier's Civilization VI",
+    "Risk of Rain 2",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/Civilizations": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/civilization6ideas": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/civ3": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/civ7": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/CrackWatch": [
+    "Sid Meier's Civilization VI",
+    "Hearts of Iron IV",
+    "Football Manager 2023",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "Farming Simulator 22",
+    "Cities: Skylines II",
+    "Europa Universalis IV",
+    "Crusader Kings III",
+    "Age of Empires II: Definitive Edition",
+    "Remnant II",
+    "Stellaris",
+    "Coral Island"
+  ],
+  "r/VideoGameDealsCanada": [
+    "Sid Meier's Civilization VI",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/Civ_Nintendo": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/democraciv": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/consoledeals": [
+    "Sid Meier's Civilization VI",
+    "Tom Clancy's Rainbow Six Siege",
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "FINAL FANTASY XIV Online",
+    "The Elder Scrolls Online",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/CivStrategy": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/CivilizationV": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/steam_giveaway": [
+    "Sid Meier's Civilization VI",
+    "Don't Starve Together",
+    "Crusader Kings III",
+    "Sid Meier's Civilization V"
+  ],
+  "r/CivSeedExchange": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/CivBESaves": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/civcirclejerk": [
+    "Sid Meier's Civilization VI",
+    "Sid Meier's Civilization V"
+  ],
+  "r/ArkSurvivalAscended": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/ARKSurvivalEvolved": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/ArkSurvivalShowcase": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/ArkSurvivalPvP": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/playarkservers": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/NeebsGaming": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved",
+    "7 Days to Die"
+  ],
+  "r/playarkmobile": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/ARK_pc": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/arkps4": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/ARKInventions": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/arktrading": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/ARKXboxOne": [
+    "ARK: Survival Ascended",
+    "ARK: Survival Evolved"
+  ],
+  "r/Vive": [
+    "PAYDAY 2",
+    "VRChat",
+    "Euro Truck Simulator 2"
+  ],
+  "r/ethoslab": [
+    "ARK: Survival Evolved",
+    "Don't Starve Together"
+  ],
+  "r/reddeadredemption2": [
+    "Red Dead Redemption 2",
+    "Left 4 Dead 2"
+  ],
+  "r/reddeadredemption": [
+    "Red Dead Redemption 2",
+    "Left 4 Dead 2"
+  ],
+  "r/RedDeadOnline": [
+    "Red Dead Redemption 2",
+    "Left 4 Dead 2"
+  ],
+  "r/reddeadmysteries": [
+    "Red Dead Redemption 2",
+    "Left 4 Dead 2"
+  ],
+  "r/reddead": [
+    "Red Dead Redemption 2",
+    "大侠立志传：碧血丹心"
+  ],
+  "r/perfectlycutscreams": [
+    "Lethal Company",
+    "Phasmophobia",
+    "Geometry Dash"
+  ],
+  "r/worldnews": [
+    "Lethal Company",
+    "New World",
+    "Hero's Land",
+    "Coral Island",
+    "Grounded"
+  ],
+  "r/Hatfilms": [
+    "Lethal Company",
+    "7 Days to Die"
+  ],
+  "r/politics": [
+    "Lethal Company",
+    "Grounded"
+  ],
+  "r/Destiny": [
+    "Destiny 2",
+    "Factorio",
+    "MapleStory"
+  ],
+  "r/DestinyFashion": [
+    "Destiny 2",
+    "Risk of Rain 2"
+  ],
+  "r/sips": [
+    "Don't Starve Together",
+    "Garry's Mod",
+    "Cities: Skylines",
+    "Factorio"
+  ],
+  "r/Terraria": [
+    "Terraria",
+    "New World",
+    "tModLoader",
+    "Geometry Dash",
+    "Risk of Rain 2"
+  ],
+  "r/CalamityMod": [
+    "Terraria",
+    "tModLoader",
+    "Geometry Dash"
+  ],
+  "r/Terraria_Mods": [
+    "Terraria",
+    "tModLoader"
+  ],
+  "r/Minecraft": [
+    "Terraria",
+    "New World",
+    "Coral Island"
+  ],
+  "r/fivenightsatfreddys": [
+    "Dead by Daylight",
+    "Garry's Mod"
+  ],
+  "r/furry": [
+    "VRChat",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "Stellaris"
+  ],
+  "r/virtualreality": [
+    "VRChat",
+    "Risk of Rain 2"
+  ],
+  "r/roosterteeth": [
+    "7 Days to Die",
+    "Left 4 Dead 2",
+    "Phasmophobia"
+  ],
+  "r/Eldenring": [
+    "ELDEN RING",
+    "Hero's Land"
+  ],
+  "r/StardewValley": [
+    "Stardew Valley",
+    "The Sims™ 4",
+    "Coral Island"
+  ],
+  "r/gamingsuggestions": [
+    "Stardew Valley",
+    "Project Zomboid",
+    "RimWorld",
+    "Path of Exile",
+    "Valheim",
+    "Slay the Spire",
+    "Factorio",
+    "Risk of Rain 2",
+    "Stellaris",
+    "MapleStory"
+  ],
+  "r/hoi4": [
+    "Hearts of Iron IV",
+    "Stellaris"
+  ],
+  "r/paradoxplaza": [
+    "Hearts of Iron IV",
+    "Cities: Skylines II",
+    "Europa Universalis IV",
+    "Crusader Kings III",
+    "Cities: Skylines",
+    "Stellaris"
+  ],
+  "r/arumba07": [
+    "Hearts of Iron IV",
+    "Europa Universalis IV",
+    "Factorio",
+    "Stellaris"
+  ],
+  "r/Kaiserreich": [
+    "Hearts of Iron IV",
+    "Stellaris"
+  ],
+  "r/vexillology": [
+    "Hearts of Iron IV",
+    "Stellaris",
+    "Coral Island"
+  ],
+  "r/ParadoxExtra": [
+    "Hearts of Iron IV",
+    "Stellaris"
+  ],
+  "r/memphisgrizzlies": [
+    "EA SPORTS FC™ 24",
+    "NBA 2K23"
+  ],
+  "r/GamingLeaksAndRumours": [
+    "EA SPORTS FC™ 24",
+    "Starfield",
+    "Street Fighter™ 6",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/VPet": [
+    "VPet",
+    "VPet"
+  ],
+  "r/MonsterHunterWorld": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MonsterHunter": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MemeHunter": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MonsterHunterMeta": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MHRise": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MonsterHunterNowHub": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MonsterHunterStories": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MHNowGame": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MonsterHunterFashions": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MonsterHunterSpoofing": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/Monster_Hunter_Rise": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/monsterhunterrage": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MonsterHunterExplore": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/MHF": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/VirtualCosplay": [
+    "Monster Hunter: World",
+    "Street Fighter™ 6",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/monsterhunterleaks": [
+    "Monster Hunter: World",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/IndieGaming": [
+    "Project Zomboid",
+    "The Binding of Isaac: Rebirth",
+    "Risk of Rain 2"
+  ],
+  "r/PiratedGames": [
+    "The Sims™ 4",
+    "Spacewar",
+    "Risk of Rain 2",
+    "Stellaris",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/Diablo": [
+    "Overwatch® 2",
+    "Path of Exile"
+  ],
+  "r/Nijisanji": [
+    "Yu-Gi-Oh! Master Duel",
+    "Street Fighter™ 6"
+  ],
+  "r/conspiracy": [
+    "New World",
+    "Grounded"
+  ],
+  "r/worldbuilding": [
+    "New World",
+    "Stellaris"
+  ],
+  "r/news": [
+    "New World",
+    "Grounded"
+  ],
+  "r/AskReddit": [
+    "New World",
+    "Satisfactory",
+    "Grounded"
+  ],
+  "r/WritingPrompts": [
+    "New World",
+    "Hero's Land",
+    "Eternal Return"
+  ],
+  "r/Showerthoughts": [
+    "New World",
+    "Grounded"
+  ],
+  "r/gundeals": [
+    "Black Desert",
+    "Mount & Blade II: Bannerlord"
+  ],
+  "r/farmingsimulator": [
+    "tModLoader",
+    "Farming Simulator 22"
+  ],
+  "r/mountandblade": [
+    "tModLoader",
+    "Mount & Blade II: Bannerlord"
+  ],
+  "r/gmod": [
+    "tModLoader",
+    "Garry's Mod"
+  ],
+  "r/ageofempires": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/aoe": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/aoe2": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/aoe3": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/AgeofMythology": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/DefenseGrid": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/rome_at_war_aoe2": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/hiddenpath": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/brasstactics": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/starwarscomics": [
+    "Age of Empires IV: Anniversary Edition",
+    "Age of Empires II: Definitive Edition"
+  ],
+  "r/RimWorld": [
+    "RimWorld",
+    "Factorio"
+  ],
+  "r/BaseBuildingGames": [
+    "RimWorld",
+    "Satisfactory",
+    "Factorio"
+  ],
+  "r/northernlion": [
+    "RimWorld",
+    "Slay the Spire",
+    "Factorio"
+  ],
+  "r/riskofrain": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/RiskOfRainReturns": [
+    "Risk of Rain Returns",
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/ror2": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/RiskOfRain2": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/rorspecialdelivery": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/RiskofRainLore": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/OkBuddyDunestrider": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/RiskofRain2_Mods": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/ROR2Feedback": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/ror1": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/fucklesserwisps": [
+    "Risk of Rain Returns",
+    "Risk of Rain 2"
+  ],
+  "r/roguelites": [
+    "Risk of Rain Returns",
+    "Slay the Spire",
+    "Risk of Rain 2"
+  ],
+  "r/CuratedTumblr": [
+    "Limbus Company",
+    "Cookie Clicker"
+  ],
+  "r/grandorder": [
+    "Limbus Company",
+    "Remnant II"
+  ],
+  "r/SkyrimTogether": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/ElderScrolls": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/BethesdaSoftworks": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "Starfield",
+    "The Elder Scrolls Online"
+  ],
+  "r/Morrowind": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/oblivion": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/SkyrimTavern": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/ElderScrollsBlades": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/TheElderMemesV": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/grelodfuckingdying": [
+    "The Elder Scrolls V: Skyrim Special Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/ffxiv": [
+    "FINAL FANTASY XIV Online",
+    "Mount & Blade II: Bannerlord"
+  ],
+  "r/EarthPorn": [
+    "Mount & Blade II: Bannerlord",
+    "Coral Island"
+  ],
+  "r/pics": [
+    "Mount & Blade II: Bannerlord",
+    "Hero's Land",
+    "Coral Island",
+    "Grounded"
+  ],
+  "r/CitiesSkylines": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylinesModding": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylines2": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylinesMaps": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylinesNexus": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/shittyskylines": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/Cities_Skylines": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/XboxCitiesSkylines": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylinesAssets": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylinesXbox": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylinesPics": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylinesConsole": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylinesVideos": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/CitiesSkylinesHelp": [
+    "Cities: Skylines II",
+    "Cities: Skylines"
+  ],
+  "r/PrequelMemes": [
+    "SCUM",
+    "Stellaris"
+  ],
+  "r/StarWarsBattlefront": [
+    "SCUM",
+    "Hero's Land"
+  ],
+  "r/eu4": [
+    "Europa Universalis IV",
+    "Stellaris"
+  ],
+  "r/CrusaderKings": [
+    "Europa Universalis IV",
+    "Crusader Kings III",
+    "Stellaris"
+  ],
+  "r/headphones": [
+    "Starfield",
+    "Stellaris"
+  ],
+  "r/incremental_games": [
+    "Cookie Clicker",
+    "Factorio"
+  ],
+  "r/3DS": [
+    "The Binding of Isaac: Rebirth",
+    "MapleStory"
+  ],
+  "r/xcloud": [
+    "Age of Empires II: Definitive Edition",
+    "The Elder Scrolls Online"
+  ],
+  "r/Warhammer": [
+    "Warhammer 40,000: Darktide",
+    "Total War: WARHAMMER III"
+  ],
+  "r/Warhammer40k": [
+    "Warhammer 40,000: Darktide",
+    "Stellaris"
+  ],
+  "r/PlayItForThePlot": [
+    "Farlight 84",
+    "Street Fighter™ 6"
+  ],
+  "r/GamerPals": [
+    "Valheim",
+    "Phasmophobia",
+    "Risk of Rain 2"
+  ],
+  "r/satisfactory": [
+    "Satisfactory",
+    "Factorio"
+  ],
+  "r/SatisfactoryGame": [
+    "Satisfactory",
+    "Factorio"
+  ],
+  "r/factorio": [
+    "Satisfactory",
+    "Factorio"
+  ],
+  "r/Dyson_Sphere_Program": [
+    "Satisfactory",
+    "Factorio"
+  ],
+  "r/iosgaming": [
+    "Slay the Spire",
+    "Factorio"
+  ],
+  "r/AndroidGaming": [
+    "Slay the Spire",
+    "Factorio",
+    "MapleStory"
+  ],
+  "r/NLSSCircleJerk": [
+    "Slay the Spire",
+    "Factorio"
+  ],
+  "r/nba": [
+    "Rocket League",
+    "NBA 2K23"
+  ],
+  "r/ManyATrueNerd": [
+    "Total War: WARHAMMER III",
+    "Fallout 4",
+    "Stellaris"
+  ],
+  "r/speedrun": [
+    "Factorio",
+    "Risk of Rain 2"
+  ],
+  "r/patientgamers": [
+    "Factorio",
+    "Risk of Rain 2",
+    "The Elder Scrolls Online",
+    "Stellaris"
+  ],
+  "r/Brawlstars": [
+    "Geometry Dash",
+    "Grounded"
+  ],
+  "r/youngpeopleyoutube": [
+    "Geometry Dash",
+    "Grounded"
+  ],
+  "r/vexillologycirclejerk": [
+    "Geometry Dash",
+    "Coral Island"
+  ],
+  "r/196": [
+    "Geometry Dash",
+    "Risk of Rain 2"
+  ],
+  "r/okbuddyretard": [
+    "Geometry Dash",
+    "Grounded"
+  ],
+  "r/soundpad": [
+    "Soundpad",
+    "Soundpad"
+  ],
+  "r/PixelArt": [
+    "Risk of Rain 2",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/NSCollectors": [
+    "Risk of Rain 2",
+    "MONSTER HUNTER RISE"
+  ],
+  "r/GameSale": [
+    "NBA 2K23",
+    "MONSTER HUNTER RISE"
+  ]
+}
