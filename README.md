@@ -7,4 +7,4 @@ Python筆記
 
 |Day| DiveINTODeepLearning |
 |---|---|
-|Day01|[diveInToDeepLearningNote\day01.md](diveInToDeepLearningNote\day01.md)|
+|2024/01/29|[diveInToDeepLearningNote\day01.md](diveInToDeepLearningNote\day01.md)|
