@@ -27,3 +27,12 @@ raw_data.iloc[8:,7] = np.nan
 missing_count = raw_data.isnull().sum()
 print(raw_data)
 ```
+
+# 問題2: 将预处理后的数据集转换为张量格式。
+```py
+import torch
+
+X, y = torch.tensor(raw_data.values), torch.tensor(raw_data.values)
+print(X)
+print(y)
+```
